@@ -274,3 +274,11 @@ footer {
     font-size: 13px;
     border: 1.5px solid orange;
 }
+
+.wf img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 25%;
+}
