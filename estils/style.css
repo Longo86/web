@@ -275,6 +275,8 @@ footer {
     border: 1.5px solid orange;
 }
 
+
+                                        /* Apartado wireframe */
 .wf img {
     position: absolute;
     top: 50%;
@@ -282,3 +284,13 @@ footer {
     transform: translate(-50%, -50%);
     max-width: 25%;
 }
+
+.wftext p {
+    color: white;
+    transform: translatex(-130%);
+    margin-top: 130%;
+    font-size: 120% ;
+}
+
+
+
