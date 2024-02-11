@@ -89,7 +89,7 @@ section img {
 }
                                         /* Cuadro de competencias */
 
-section.skills {
+section.skillls {
     position: fixed;
     top: 40%;
     right: 0;
@@ -98,10 +98,19 @@ section.skills {
     background-color: black;
     color: white;
     width: 250px;
-    height: 70vh;
-    overflow-y: auto;
-    overflow-x: hidden;
+    height: 70vh; 
 }
+
+section.skills {
+    position: relative;
+    transform: translateX(150%) translateY(0%);
+    padding: 20px;
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 70vh;
+}
+
 
 section.skills h2 {
     font-size: 24px;
@@ -109,7 +118,7 @@ section.skills h2 {
 }
 
 section.skills meter {
-    width: 100%;
+    width: 90%;
 }
 
 section.skills label {
