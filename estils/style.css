@@ -292,5 +292,8 @@ footer {
     font-size: 120% ;
 }
 
+.wftext p:hover {
+   color: #ff6600;
+}
 
 
