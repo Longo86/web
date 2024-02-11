@@ -288,8 +288,8 @@ footer {
 .wftext p {
     color: white;
     transform: translatex(-130%);
-    margin-top: 130%;
-    font-size: 120% ;
+    margin-top: 100%;
+    font-size: 100% ;
 }
 
 .wftext p:hover {
