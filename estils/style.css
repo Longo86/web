@@ -93,7 +93,7 @@ section.skills {
     position: fixed;
     top: 40%;
     right: 0;
-    transform: translateX(300%) translateY(-25%);
+    transform: translateX(320%) translateY(-25%);
     padding: 20px;
     background-color: black;
     color: white;
